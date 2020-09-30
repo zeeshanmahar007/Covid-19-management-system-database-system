@@ -1,1 +1,1 @@
-# Covid-19-management-system-database-system
+# Covid-19 Management System Database System
