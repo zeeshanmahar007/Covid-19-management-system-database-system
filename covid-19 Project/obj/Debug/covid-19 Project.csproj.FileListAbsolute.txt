@@ -1,0 +1,55 @@
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\covid-19 Project.exe.config
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\covid-19 Project.exe
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\covid-19 Project.pdb
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.Form1.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.Properties.Resources.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid-19 Project.csproj.GenerateResource.cache
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid-19 Project.exe
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid-19 Project.pdb
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.UserControl1.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid-19 Project.csproj.CopyComplete
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.home.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.International.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\Interop.WMPLib.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\AxInterop.WMPLib.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\Interop.WMPLib.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\AxInterop.WMPLib.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid-19 Project.csproj.ResolveComReference.cache
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.patientrecord.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.addnewrecord.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.deletenewrecord.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.editnewrecord.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.WinForms.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.Wpf.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.pdb
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.xml
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.WinForms.pdb
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.WinForms.xml
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.Wpf.pdb
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\LiveCharts.Wpf.xml
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.graph.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.interchart.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.pakchart.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.Quarantinewards.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.IsolationWards.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\EntityFramework.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\GMap.NET.Core.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\Newtonsoft.Json.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\System.Data.SQLite.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\EntityFramework.xml
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\Newtonsoft.Json.xml
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\System.Data.SQLite.xml
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\bin\Debug\System.Data.SQLite.dll.config
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.addpatientinQward.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.removepatientfromQward.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.addpatientin_Iward.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid_19_Project.usercontrol.removepatientfrom_Iward.resources
+E:\Study Data\4th semester Spring-2020\DB LAB\Semester Project\covid-19 Project\obj\Debug\covid-19 Project.csprojAssemblyReference.cache
