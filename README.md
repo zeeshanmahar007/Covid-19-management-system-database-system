@@ -29,17 +29,13 @@ Recommendations of outbreak in your region(s).
 Percentage of COVID outbreak in your region/country.		(DDL Query)
 Emergency Call numbers/centers available in your city/region .   (DDL Query)
 
-## Main Feature:
-
-Visualization of patient data on Map.
-
-## Additional Goals:
+## Goals:
 
 Generating statistical reports on timely basis using Sql queries.
 Calculation of initial trends as patient symptoms.
 
 
-Objectives:
+## Objectives:
 
 The point of the organization will be to give individuals the details identified with COVID-19 and educate them with the data from the specialists and other authority assets so they can forestall themselves structure the pandemic circumstance.
 
