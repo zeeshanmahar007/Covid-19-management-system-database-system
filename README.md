@@ -1,5 +1,5 @@
 # Covid-19 Management System Database System
-              Made by Mahar Zeeshan Arain
+              Made by Mahar Zeeshan
               Co Author Usama Bin Sadiq
         
         
