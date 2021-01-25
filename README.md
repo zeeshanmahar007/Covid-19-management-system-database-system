@@ -40,3 +40,17 @@ Calculation of initial trends as patient symptoms.
 ## Objectives
 
 The point of the organization will be to give individuals the details identified with COVID-19 and educate them with the data from the specialists and other authority assets so they can forestall themselves structure the pandemic circumstance.
+
+## Screenshots of project
+
+Here is some screenshot of the working project
+
+### Home
+
+![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/pak_home.JPG)
+
+![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/pak_chart.JPG)
+
+![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_home.JPG)
+
+![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_chart.JPG)
