@@ -45,12 +45,12 @@ The point of the organization will be to give individuals the details identified
 
 Here is some screenshot of the working project
 
-### Home
+### Home Screen
 
-![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/pak_home.JPG)
+![Pakistan Patient Home Page](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/pak_home.JPG)
 
-![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/pak_chart.JPG)
+![Pie Chart of pakistani patient](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/pak_chart.JPG)
 
-![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_home.JPG)
+![International Patient Home Page](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_home.JPG)
 
-![project Display](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_chart.JPG)
+![Pie Chart of international patient](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_chart.JPG)
