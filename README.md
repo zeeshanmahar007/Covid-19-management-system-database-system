@@ -43,7 +43,7 @@ The point of the organization will be to give individuals the details identified
 
 ## Screenshots of project
 
-Here is some screenshot of the working project
+Here are some screenshots of the working project.
 
 ### Home Screen
 
