@@ -15,19 +15,19 @@ To manage all the relevant areas and features, we design database schema and imp
 
 Some major and core features of COVID’19 Management System are as follows:
 
-1-Isolation wards (and its complete management).<b>(DML Query)</b>
+1-Isolation wards (and its complete management). <b>(DML Query)</b>
 
-2-Quarantine wards (and its complete management).<b>(DML Query)</b>
+2-Quarantine wards (and its complete management). <b>(DML Query)</b>
 
 3-Symptoms, Preventing Measure and Treatment of Covid'19.
 
-4-Patient Record (add, edit, delete recovered/deaths/active cases).<b>(DML Query)</b>
+4-Patient Record (add, edit, delete recovered/deaths/active cases). <b>(DML Query)</b>
 
 5-Recommendations of outbreak in your region(s).
 
-6-Percentage of COVID outbreak in your region/country.<b>(DDL Query)</b>
+6-Percentage of COVID outbreak in your region/country. <b>(DDL Query)</b>
 
-7-Emergency Call numbers/centers available in your city/region.<b>(DDL Query)</b>
+7-Emergency Call numbers/centers available in your city/region. <b>(DDL Query)</b>
 
 
 
