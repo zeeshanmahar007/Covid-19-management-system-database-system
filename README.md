@@ -74,4 +74,12 @@ Here are some screenshots of the working project.
 
 ![Remove Patient From Quarantine Wards](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/remove_patient_from_Qwards.JPG)
 
+### Isolation Wards
+
+![Isolation Wards Home](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/isolation_wards.JPG)
+
+![Add Patient in Isolation Wards](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/add_patient_in_Iwards.JPG)
+
+![Remove Patient From Isolation Wards](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/remove_patient_from_1wards.JPG)
+
 
