@@ -66,3 +66,12 @@ Here are some screenshots of the working project.
 
 ![Delete Patient](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/delete_patient.JPG)
 
+### Quarantine Wards
+
+![Quarantine Wards Home](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/quarantine_wards.JPG)
+
+![Add Patient in Quarantine Wards](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/add_patient_in_Qwards.JPG)
+
+![Remove Patient From Quarantine Wards](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/remove_patient_from_Qwards.JPG)
+
+
