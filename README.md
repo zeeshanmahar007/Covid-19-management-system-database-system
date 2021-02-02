@@ -54,3 +54,15 @@ Here are some screenshots of the working project.
 ![International Patient Home Page](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_home.JPG)
 
 ![Pie Chart of international patient](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/international_chart.JPG)
+
+
+### Patient Record
+
+![Patient Record Home Page](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/patient_record.JPG)
+
+![Add New Patient](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/add_patient.JPG)
+
+![Edit Patient](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/edit_patient.JPG)
+
+![Delete Patient](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/delete_patient.JPG)
+
