@@ -82,4 +82,6 @@ Here are some screenshots of the working project.
 
 ![Remove Patient From Isolation Wards](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/remove_patient_from_1wards.JPG)
 
+### Symptoms 
 
+![Symptoms tab](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/symptoms.JPG)
