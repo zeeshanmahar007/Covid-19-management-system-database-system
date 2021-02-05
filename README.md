@@ -85,3 +85,8 @@ Here are some screenshots of the working project.
 ### Symptoms 
 
 ![Symptoms tab](https://raw.githubusercontent.com/zeeshanmahar007/Covid-19-management-system-database-system/master/Screenshots/symptoms.JPG)
+
+
+
+
+**I hope you enjoy this project and you have learned something new from this project.**
